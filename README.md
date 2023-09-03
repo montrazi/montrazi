@@ -10,7 +10,7 @@ If you don’t know what is Deuterium Metabolic Imaging, we suggest to read firs
 
 ![dmi_average](https://github.com/montrazi/figures/blob/main/webpage_dmi_average.png)
 
-- [Steady-State Free Precession](https://github.com/montrazi/montrazi/blob/main/csi.md)
+- [Steady-State Free Precession](https://github.com/montrazi/SSFP_simulation)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
