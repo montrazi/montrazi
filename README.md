@@ -6,7 +6,7 @@ Brazilian Lattes Plataform: [lattes cv](http://lattes.cnpq.br/0900836072791017)
 ### NMR in Porous Media (T<sub>2</sub>/T<sub>1</sub> relaxation, Laplace transform, and T<sub>2</sub>-T<sub>2</sub> exchange)
 This section contains my work from my master's and PhD. I summarize information about NMR in Porous Media and share the codes for Laplace transform 1D and 2D, which are used in regular and filtered T<sub>2</sub>-T<sub>2</sub> Exchange. [Under construction...](https://github.com/montrazi/t2_t2_exchange)
 
-![dmi_average](https://github.com/montrazi/figures/blob/main/t2_t2_exchange_github.png)
+![dmi_average](https://github.com/montrazi/figures/blob/main/webpage_t2_t2_exchange.png)
 
 ### Steady-State Free Precession Deuterium Metabolic Imaging (SSFP-DMI)
 This part contains my work from post-doctorate at the Weizmann Institute of Science/Israel. I summarize information about Steady-State Free Precession Deuterium Metabolic Imaging (SSFP-DMI) and share the codes and sequences.[Read more...](https://github.com/montrazi/SSFP_simulation)
